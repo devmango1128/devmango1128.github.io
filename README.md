@@ -1,6 +1,13 @@
-### devmango1128
+## devmango1128
+
+### 프리랜서 웹 개발자
+
+#### resume : https://devmango1128.github.io/
 
 #### dev blog : https://devmango.tistory.com/
+
+
+- - - -
 
 <h6><a href="https://github.com/jeffreytse/jekyll-theme-yat">By 🎨 JEKYLL YAT THEME 🎨</a></h6>
 
